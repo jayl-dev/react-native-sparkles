@@ -4,6 +4,8 @@ A sparkles/explosion effect that I created for another project, it was meant to 
 
 I pulled it out into its own component and added a few simple properties so that I can open source it and share it with the community.
 
+ **Note:** This component uses [react-native-reanimated](https://docs.swmansion.com/react-native-reanimated/) and [react-native-svg] to draw, so it's only meant for simple UI effects, not for complex animations or games.
+
 ## Installation
 
 ```sh
