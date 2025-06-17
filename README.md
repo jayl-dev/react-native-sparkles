@@ -2,6 +2,8 @@
 
 A sparkles/explosion effect that I created for another project, it was meant to simulate the sparkles effect in mario party when the characters high five each other after the mini game win.
 
+web interactive demo [https://react-native-spakles.expo.app](https://react-native-spakles.expo.app).
+
 I pulled it out into its own component and added a few simple properties so that I can open source it and share it with the community.
 
  **Note:** This component uses [react-native-reanimated](https://docs.swmansion.com/react-native-reanimated/) and [react-native-svg] to draw, so it's only meant for simple UI effects, not for complex animations or games.
@@ -13,6 +15,8 @@ npm install react-native-reanimated react-native-svg
 ```
 
 ## Usage
+
+To use, get everything from the components folder and add it to your screen
 
 ```jsx
 import Sparkles from './components/Sparkles';
@@ -38,6 +42,10 @@ import Sparkles from './components/Sparkles';
   rotateParticles={true}
 />
 ```
+
+## Screenshots
+
+![demo](/../main/screenshots/demo.gif?raw=true "Demo")
 
 ## Props
 
