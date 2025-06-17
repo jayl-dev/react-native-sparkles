@@ -1,4 +1,4 @@
-# React Sparkles
+# React Native Sparkles
 
 A sparkles/explosion effect that I created for another project, it was meant to simulate the sparkles effect in mario party when the characters high five each other after the mini game win.
 
