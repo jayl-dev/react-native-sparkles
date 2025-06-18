@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-sparkles",
-    "slug": "react-sparkles",
+    "name": "react-native-sparkles",
+    "slug": "react-native-sparkles",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
