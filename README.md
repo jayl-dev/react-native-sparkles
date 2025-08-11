@@ -3,7 +3,7 @@
 A sparkles/explosion effect that I created for another project, it was meant to simulate the sparkles effect in mario party when the characters high five each other after the mini game win.
 
 see it in action in a mobile PWA app
-https://spin.expo.app/ 
+https://spin.expo.app/ or iOS https://apps.apple.com/us/app/spin-wheel-game/id6749246462?platform=iphone
 
 I pulled it out into its own component and added a few simple properties so that I can open source it and share it with the community.
 
